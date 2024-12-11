@@ -1,5 +1,5 @@
 # Basic Java 21 configuration
-image: gitpod/workspace-java-17
+image: gitpod/workspace-java-21
 
 # VS Code Java extensions
 vscode:
